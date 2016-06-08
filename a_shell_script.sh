@@ -4,4 +4,4 @@ set -x
 
 #Addin this additional comment.
 
-[ -d /apps ] || mkdir /apps 
+[ -d /home/apps ] || mkdir /home/apps 

@@ -4,4 +4,4 @@ set -x
 
 #Addin this additional comment.
 
-[ -d /home/apps ] || echo "the directory already exists" 
+[ -d /home/apps ] || > /home/thedirectorydoesntexit.txt 
